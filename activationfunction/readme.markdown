@@ -15,3 +15,14 @@
 3. Momentum (下坡): W += - Learning rate * dx
 4. AdaGrad  (错误方向的阻力)
 5. RMSProp
+
+
+## 神经网络优化器 
+1. GradientDescentOptimizer  入门
+
+## tensorboard 命令
+1. 切换到生成的可视化的文件目录下面
+2. tensorboard --logdir='logs/'
+3. HIStograms: 历史
+## 可视化构建过程
+## 可视化训练过程
